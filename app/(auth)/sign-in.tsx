@@ -9,6 +9,6 @@ const SignIn = () => {
   );
 };
 
-export default SignINn;
+export default SignIn;
 
 const styles = StyleSheet.create({});
